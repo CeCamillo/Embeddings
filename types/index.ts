@@ -18,5 +18,5 @@ export type PGChunk = {
 
 export type PGJson = {
     tokens: number;
-    esaays: PGEssay[];
+    essays: PGEssay[];
 };
